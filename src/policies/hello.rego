@@ -18,3 +18,5 @@ enabled {
 visible {
     input.app == "web-console"
 }
+
+test_rule_0_0_1=true
